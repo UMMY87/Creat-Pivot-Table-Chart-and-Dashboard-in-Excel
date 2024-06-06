@@ -1,4 +1,4 @@
-# Creat Pivot-Table & Chart also Dashboard in Excel
+# Creat Pivot Table & Chart also Dashboard in Excel
 ## Bike Buyers Data Analysis
 
 This repository contains a comprehensive data analysis of bike buyers. Follow the instructions below to replicate the analysis and create visualizations for better insights.
